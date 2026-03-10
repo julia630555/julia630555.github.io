@@ -1,4 +1,4 @@
----
+<img width="1587" height="362" alt="image" src="https://github.com/user-attachments/assets/0022729d-64c7-45cd-9b9f-586813c2c47e" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -54,8 +54,13 @@ My research interests include **large language model security**, **adversarial r
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11* **First-Class Scholarship**, Wuhan University
+- *2024.11* **Huang Zhangren Scholarship**, Wuhan University
+- *2024.12* **Hubei First Prize**, Chinese Mathematics Competition (CMC)
+- *2025.06* **Second Prize**, China University Computer Design Competition (Central South Regional Contest)
+- *2025.08* **First Prize**, National College Student Artificial Intelligence Security Competition
+- *2025.12* **First-Class Scholarship**, Wuhan University
+- *2025.12* **National Scholarship for Undergraduate Students**, Ministry of Education of China
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
