@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Xinwei Liu"
+description              : "Personal homepage of Xinwei Liu"
+repository               : "julia630555/julia630555.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinwei Liu"
   avatar           : "images/myself.jpg"
-  bio              : "Wuhan University"
+  bio              : "Junior student in Cyber Security, Wuhan University"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
