@@ -25,18 +25,25 @@ My research interests include **large language model security**, **adversarial r
 - *2025.08*: &nbsp;🏆🏆 Won the **First Prize** in the National College Student Artificial Intelligence Security Competition.
 - *2024.11*: &nbsp;🏅🏅 Honored to receive the Huang Zhangren Scholarship, the Wuhan University First-Class Scholarship, and the title of Merit Student.
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='/images/aeo.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Under Review</div>
+<img src='/images/aeo.png' alt="paper" width="100%">
+</div>
+</div>
 <div class='paper-box-text' markdown="1">
 
 **Structure vs. Chaos: Asymmetric Entropic Optimization for Enforcing Instruction Hierarchy**
 
-Tianxiao Huang, Xinwei Liu, et al.
+Tianxiao Huang, **Xinwei Liu**, *et al.*
 
 *Under Review*
 
 - A lightweight framework for prompt injection detection and instruction hierarchy enforcement in large language models.
+
 </div>
 </div>
 
