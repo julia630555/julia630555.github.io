@@ -15,8 +15,6 @@ I am **Xinwei Liu**, a junior undergraduate student majoring in **Cyber Security
 
 My research interests include **large language model security**, **adversarial robustness of diffusion watermarks**, and **backdoor attacks on graph-LLMs**.
 
-2023.09 - present, **Wuhan University**, B.S. in **Cyber Security**.
-
 
 
 # 🔥 News
