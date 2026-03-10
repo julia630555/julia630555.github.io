@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinwei Liu"
-description              : "Personal homepage of Xinwei Liu"
+description              : "Junior student in Cyber Security, Wuhan University"
 repository               : "julia630555/julia630555.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinwei Liu"
   avatar           : "images/myself.jpg"
-  bio              : "Junior student in Cyber Security, Wuhan University"
+  bio              : "2023302181110@whu.edu.cn"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
