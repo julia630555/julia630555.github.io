@@ -73,8 +73,8 @@ My research interests include **large language model security**, **adversarial r
     </div>
   </div>
 
-  <div style="width:150px; flex-shrink:0; display:flex; justify-content:center;">
-    <img src="/images/whu_logo.png" alt="Wuhan University Logo" style="width:140px; height:auto;">
+  <div style="width:220px; flex-shrink:0; display:flex; justify-content:center;">
+    <img src="/images/whu_logo.png" alt="Wuhan University Logo" style="width:160px; height:160px; object-fit:contain;">
   </div>
 
 </div>
