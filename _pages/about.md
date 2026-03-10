@@ -61,12 +61,20 @@ My research interests include **large language model security**, **adversarial r
 - *2025.12* **National Scholarship for Undergraduate Students**, Ministry of Education of China
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div style="display:flex; align-items:center; justify-content:space-between; gap:24px; margin:18px 0 8px 0;">
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+  <div style="flex:1; min-width:0;">
+    <div style="font-size:18px; font-weight:700; color:#374151; margin-bottom:8px;">
+      2023.09 - Now
+    </div>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+    <div style="font-size:17px; line-height:1.6; color:#374151;">
+      Undergraduate, Cyber Security, Wuhan University
+    </div>
+  </div>
+
+  <div style="width:150px; flex-shrink:0; display:flex; justify-content:center;">
+    <img src="/images/whu_logo.png" alt="Wuhan University Logo" style="width:120px; height:auto;">
+  </div>
+
+</div>
