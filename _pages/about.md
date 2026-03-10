@@ -1,9 +1,9 @@
-<img width="1587" height="362" alt="image" src="https://github.com/user-attachments/assets/0022729d-64c7-45cd-9b9f-586813c2c47e" />---
+---
 permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
