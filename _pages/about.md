@@ -36,8 +36,6 @@ Tianxiao Huang, Xinwei Liu, et al.
 
 *Under Review*
 
-[**Paper**](#)
-
 - A lightweight framework for prompt injection detection and instruction hierarchy enforcement in large language models.
 </div>
 </div>
