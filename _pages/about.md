@@ -27,24 +27,30 @@ My research interests include **large language model security**, **adversarial r
 
 # 📝 Publications
 
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">Under Review</div>
-<img src='/images/aeo.png' alt="paper" width="100%">
-</div>
-</div>
-<div class='paper-box-text' markdown="1">
+<div style="border:1px solid #e5e7eb; border-radius:28px; padding:28px 34px; margin:24px 0; display:flex; align-items:center; justify-content:space-between; gap:36px; background:#fff;">
 
-**Structure vs. Chaos: Asymmetric Entropic Optimization for Enforcing Instruction Hierarchy**
+  <div style="flex:1; min-width:0;">
+    <div style="display:inline-block; padding:8px 18px; border-radius:999px; background:linear-gradient(90deg,#123b7a 0%, #e88900 100%); color:white; font-weight:700; font-size:16px; margin-bottom:18px;">
+      Under Review
+    </div>
 
-Tianxiao Huang, **Xinwei Liu**, *et al.*
+    <div style="font-size:32px; font-weight:800; line-height:1.25; color:#1f2937; margin-bottom:22px;">
+      Structure vs. Chaos: Asymmetric Entropic Optimization for Enforcing Instruction Hierarchy
+    </div>
 
-*Under Review*
+    <div style="font-size:22px; line-height:1.5; color:#374151; margin-bottom:18px;">
+      <strong>Tianxiao Huang</strong>, Xinwei Liu, <em>et al.</em>
+    </div>
 
-- A lightweight framework for prompt injection detection and instruction hierarchy enforcement in large language models.
+    <div style="font-size:20px; font-style:italic; color:#6b7280;">
+      Under Review
+    </div>
+  </div>
 
-</div>
+  <div style="width:420px; flex-shrink:0;">
+    <img src="/images/aeo.png" alt="paper" style="width:100%; border-radius:24px; box-shadow:0 8px 24px rgba(0,0,0,0.08);">
+  </div>
+
 </div>
 
 # 🎖 Honors and Awards
