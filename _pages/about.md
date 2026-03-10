@@ -47,8 +47,8 @@ My research interests include **large language model security**, **adversarial r
     </div>
   </div>
 
-  <div style="width:280px; flex-shrink:0;">
-    <img src="/images/aeo.png" alt="paper" style="width:100%; border-radius:18px; box-shadow:0 6px 18px rgba(0,0,0,0.08);">
+  <div style="width:260px; height:150px; flex-shrink:0; display:flex; align-items:center; justify-content:center; background:#fff; border-radius:18px; box-shadow:0 6px 18px rgba(0,0,0,0.08); overflow:hidden; padding:8px;">
+    <img src="/images/aeo.png" alt="paper" style="max-width:100%; max-height:100%; object-fit:contain; border-radius:12px;">
   </div>
 
 </div>
