@@ -61,9 +61,10 @@ My research interests include **large language model security**, **adversarial r
 - *2025.12* **National Scholarship for Undergraduate Students**, Ministry of Education of China
 
 # 📖 Educations
-<div style="display:flex; align-items:center; justify-content:space-between; gap:24px; margin:18px 0 8px 0;">
 
-  <div style="flex:1; min-width:0;">
+<div style="display:flex; align-items:center; gap:36px; margin:18px 0 8px 0;">
+
+  <div style="flex:0 0 620px; min-width:0;">
     <div style="font-size:18px; font-weight:700; color:#374151; margin-bottom:8px;">
       2023.09 - Now
     </div>
@@ -73,8 +74,8 @@ My research interests include **large language model security**, **adversarial r
     </div>
   </div>
 
-  <div style="width:150px; flex-shrink:0; display:flex; justify-content:center;">
-    <img src="/images/whu_logo.png" alt="Wuhan University Logo" style="width:96px; height:96px; object-fit:contain;">
+  <div style="width:180px; flex-shrink:0; display:flex; justify-content:flex-start;">
+    <img src="/images/whu_logo.png" alt="Wuhan University Logo" style="width:150px; height:150px; object-fit:contain;">
   </div>
 
 </div>
