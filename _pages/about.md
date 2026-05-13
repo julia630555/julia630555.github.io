@@ -42,6 +42,36 @@ My research interests include **large language model security**, **adversarial r
 
     <div style="font-size:15px; font-style:italic; color:#6b7280;">
       Revised from ICML 2026 submission (average score: 3.5) and resubmitted to NeurIPS 2026.
+      <br>
+      Focuses on the asymmetric logic in latent representations to mitigate instruction injection attacks.
+    </div>
+  </div>
+
+  <div style="width:260px; height:150px; flex-shrink:0; display:flex; align-items:center; justify-content:center; background:#fff; border-radius:18px; box-shadow:0 6px 18px rgba(0,0,0,0.08); overflow:hidden; padding:8px;">
+    <img src="/images/AEO.png" alt="paper" style="max-width:100%; max-height:100%; object-fit:contain; border-radius:12px;">
+  </div>
+
+</div>
+
+<div style="border:1px solid #e5e7eb; border-radius:24px; padding:20px 24px; margin:20px 0; display:flex; align-items:center; justify-content:space-between; gap:26px; background:#fff;">
+
+  <div style="flex:1; min-width:0;">
+    <div style="display:inline-block; padding:6px 14px; border-radius:999px; background:linear-gradient(90deg,#123b7a 0%, #e88900 100%); color:#fff; font-weight:700; font-size:13px; margin-bottom:14px;">
+      Under Review @ NeurIPS 2026
+    </div>
+
+    <div style="font-size:20px; font-weight:800; line-height:1.35; color:#1f2937; margin-bottom:12px;">
+      Graph-Phantom: Projector-Level Backdoor Attack on Graph-LLMs
+    </div>
+
+    <div style="font-size:16px; line-height:1.5; color:#374151; margin-bottom:10px;">
+      <strong>Xinwei Liu</strong>, <em>et al.</em>
+    </div>
+
+    <div style="font-size:15px; font-style:italic; color:#6b7280;">
+      Under Review.
+      <br>
+      Targets the graph-to-language projector to reveal hidden backdoor risks in Graph-LLMs.
     </div>
   </div>
 
