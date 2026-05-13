@@ -56,7 +56,7 @@ My research interests include **large language model security**, **adversarial r
 <div style="border:1px solid #e5e7eb; border-radius:24px; padding:20px 24px; margin:20px 0; display:flex; align-items:center; justify-content:space-between; gap:26px; background:#fff;">
 
   <div style="flex:1; min-width:0;">
-    <div style="display:inline-block; padding:6px 14px; border-radius:999px; background:linear-gradient(90deg,#123b7a 0%, #e88900 100%); color:#fff; font-weight:700; font-size:13px; margin-bottom:14px;">
+    <div style="display:inline-block; padding:6px 14px; border-radius:999px; background:linear-gradient(90deg,#1e3a8a 0%, #7c3aed 100%); color:#fff; font-weight:700; font-size:13px; margin-bottom:14px;">
       Under Review @ NeurIPS 2026
     </div>
 
