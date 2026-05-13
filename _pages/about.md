@@ -29,7 +29,7 @@ My research interests include **large language model security**, **adversarial r
 
   <div style="flex:1; min-width:0;">
     <div style="display:inline-block; padding:6px 14px; border-radius:999px; background:linear-gradient(90deg,#123b7a 0%, #e88900 100%); color:#fff; font-weight:700; font-size:13px; margin-bottom:14px;">
-      Under Review
+      Under Review@NeurIPS 2026
     </div>
 
     <div style="font-size:20px; font-weight:800; line-height:1.35; color:#1f2937; margin-bottom:12px;">
