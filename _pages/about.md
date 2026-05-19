@@ -67,8 +67,6 @@ My research interests include **large language model security**, **adversarial r
     </div>
 
     <div style="font-size:15px; font-style:italic; color:#6b7280;">
-      Under Review.
-      <br>
       Targets the graph-to-language projector to reveal hidden backdoor risks in Graph-LLMs.
     </div>
   </div>
