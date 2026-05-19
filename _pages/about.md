@@ -20,6 +20,7 @@ My research interests include **large language model security**, **adversarial r
 # 🔥 News
 - *2026.05*: &nbsp;📝📝 One paper has been submitted to NeurIPS 2026.
 - *2026.05*: &nbsp;📝📝 One paper received an average score of 3.5 in ICML 2026 and has been resubmitted to NeurIPS 2026 after undergoing major revisions.
+- *2026.05*: &nbsp; 🏆 Won the **Third Prize** in the **RoboCup Soccer Simulation 2D League** at the **2026 China Robot Competition and RoboCup China Open**.
 - *2025.10*: &nbsp;🏅🏅 Honored to receive the **National Scholarship for Undergraduate Students**, the Wuhan University First-Class Scholarship, and the title of Merit Student.
 - *2025.08*: &nbsp;🏆🏆 Won the **First Prize** in the National College Student Artificial Intelligence Security Competition.
 - *2024.11*: &nbsp;🏅🏅 Honored to receive the Huang Zhangren Scholarship, the Wuhan University First-Class Scholarship, and the title of Merit Student.
@@ -86,6 +87,7 @@ My research interests include **large language model security**, **adversarial r
 - *2025.08* **First Prize**, National College Student Artificial Intelligence Security Competition
 - *2025.12* **First-Class Scholarship**, Wuhan University
 - *2025.12* **National Scholarship for Undergraduate Students**, Ministry of Education of China
+- *2026.05* **Third Prize**, RoboCup Soccer Simulation 2D League, 2026 China Robot Competition and RoboCup China Open
 
 # 📖 Educations
 
