@@ -13,7 +13,7 @@ redirect_from:
 
 I am **Xinwei Liu**, a junior undergraduate student majoring in **Cyber Security** at **Wuhan University**. My current GPA is **3.94/4.0**, ranking **1st** in my major.
 
-My research interests include **large language model security**, **adversarial robustness of diffusion watermarks**, and **backdoor attacks on graph-LLMs**.
+My research interests include **large language models**, **Graph-LLMs**, and **trustworthy AI**.
 
 
 
