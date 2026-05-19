@@ -18,7 +18,8 @@ My research interests include **large language model security**, **adversarial r
 
 
 # 🔥 News
-- *2026.01*: &nbsp;📝📝 Our paper “Structure vs. Chaos: Asymmetric Entropic Optimization for Enforcing Instruction Hierarchy” is currently under review.
+- *2026.05*: &nbsp;📝📝 One paper has been submitted to NeurIPS 2026.
+- *2026.05*: &nbsp;📝📝 One paper received an average score of 3.5 in ICML 2026 and has been resubmitted to NeurIPS 2026 after undergoing major revisions.
 - *2025.10*: &nbsp;🏅🏅 Honored to receive the **National Scholarship for Undergraduate Students**, the Wuhan University First-Class Scholarship, and the title of Merit Student.
 - *2025.08*: &nbsp;🏆🏆 Won the **First Prize** in the National College Student Artificial Intelligence Security Competition.
 - *2024.11*: &nbsp;🏅🏅 Honored to receive the Huang Zhangren Scholarship, the Wuhan University First-Class Scholarship, and the title of Merit Student.
